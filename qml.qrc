@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GroundFloor.qml</file>
+        <file>GroundFloorForm.ui.qml</file>
+        <file>FirstFloor.qml</file>
+        <file>FirstFloorForm.ui.qml</file>
+        <file>../Downloads/imageQt/ceiling-blue.png</file>
+        <file>../Downloads/imageQt/ceiling-white.png</file>
+        <file>../Downloads/imageQt/chandelier.png</file>
+        <file>../Downloads/imageQt/chandelier-blue.png</file>
+        <file>../Downloads/imageQt/chandelier-white.png</file>
+        <file>../Downloads/imageQt/door-blue.png</file>
+        <file>../Downloads/imageQt/door-white.png</file>
+        <file>../Downloads/imageQt/fence.png</file>
+        <file>../Downloads/imageQt/fence-blue.png</file>
+        <file>../Downloads/imageQt/fence-white.png</file>
+        <file>../Downloads/imageQt/lamp-blue.png</file>
+        <file>../Downloads/imageQt/lamp-white.png</file>
+        <file>../Downloads/imageQt/restaurant_blue.png</file>
+        <file>../Downloads/imageQt/restaurant_white.png</file>
+        <file>../Downloads/imageQt/tempareture-blue.png</file>
+        <file>../Downloads/imageQt/tempareture-white.png</file>
+        <file>../Downloads/imageQt/tree-blue.png</file>
+        <file>../Downloads/imageQt/tree-white.png</file>
+        <file>../Downloads/imageQt/wc-blue.png</file>
+        <file>../Downloads/imageQt/wc-white.png</file>
+        <file>../Downloads/imageQt/window-blue.png</file>
+        <file>../Downloads/imageQt/window-white.png</file>
+        <file>../Downloads/imageQt/wood-fence-of-yard.png</file>
+        <file>../Downloads/imageQt/background.jpeg</file>
+        <file>../Downloads/imageQt/banana.gif</file>
+        <file>LockScreen.qml</file>
+    </qresource>
+</RCC>
